@@ -1,0 +1,11 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Datos originales privados
+data/raw/*
+!data/raw/.gitkeep
